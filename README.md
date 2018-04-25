@@ -37,6 +37,8 @@ A curated collection of `live-reloading` tools and libraries associated with dif
   - VueJS
     - [**Vue Loader**](https://github.com/vuejs/vue-loader)
       - [Blog](https://vue-loader.vuejs.org/guide/hot-reload.html)
+  - Quokka.js
+    - [**Quokka.js**](https://quokkajs.com/docs/configuration.html)
 
 ## Python
   - Gunicorn
