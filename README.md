@@ -46,6 +46,11 @@ A curated collection of `live-reloading` tools and libraries associated with dif
   - Django
     - [**django-webpack-loader**](https://github.com/owais/django-webpack-loader)
       - [Blog](https://owais.lone.pw/blog/webpack-plus-reactjs-and-django/)
+  - Hupper
+    - Just use `hupper -m script` instead of `python -m script`.
+    - [Docs](https://docs.pylonsproject.org/projects/hupper/en/latest/)
+  - Pyramid
+    - [Docs](https://docs.pylonsproject.org/projects/pyramid/en/1.9-branch/pscripts/pserve.html)
 
 ## PureScript
   - [**Parcel**](https://github.com/parcel-bundler/parcel)
