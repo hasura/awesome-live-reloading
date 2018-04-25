@@ -38,6 +38,10 @@ A curated collection of `live-reloading` tools and libraries associated with dif
     - [**Vue Loader**](https://github.com/vuejs/vue-loader)
       - [Blog](https://vue-loader.vuejs.org/guide/hot-reload.html)
 
+## Lua
+  - [**info-beamer (pi)**](https://info-beamer.com/pi)
+     - [Documentation](https://info-beamer.com/doc/info-beamer)
+
 ## Python
   - Gunicorn
     - [Docs](http://docs.gunicorn.org/en/stable/settings.html#debugging)
