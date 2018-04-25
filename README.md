@@ -45,7 +45,8 @@ A curated collection of `live-reloading` tools and libraries associated with dif
     - [Docs](http://flask.pocoo.org/docs/0.12/quickstart/#debug-mode)
   - Django
     - [**django-webpack-loader**](https://github.com/owais/django-webpack-loader)
-      - [Blog](https://owais.lone.pw/blog/webpack-plus-reactjs-and-django/)
+      - [Blog](https://owais.lone.pw/blog/webpack-plus-reactjs-and-django/)
+  - [Watchdog](https://github.com/gorakhargosh/watchdog)
 
 ## PureScript
   - [**Parcel**](https://github.com/parcel-bundler/parcel)
