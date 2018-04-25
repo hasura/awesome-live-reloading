@@ -4,10 +4,30 @@ A curated collection of `live-reloading` tools and libraries associated with dif
 
 "Live reloading" refers to tools that run your compile/build step as you write code. This makes it faster for you test your work as you write code. This is especially helpful for web development.
 
+## C
+  - **cr.h**
+    - [Library](https://github.com/fungos/cr)
+    - [Blog](https://fungos.github.io/blog/2017/11/20/cr.h-a-simple-c-hot-reload-header-only-library/)
+
+## C++
+  - **RuntimeCompiledCPlusPlus**
+    - [Library](https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus)
+    - [Blog](https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus/wiki)
+
+## Go
+  - **Gin**
+    - [Library](https://github.com/codegangsta/gin)
+    - [Readme](https://github.com/codegangsta/gin/blob/master/README.md)
+
+## Haskell
+  - `stack build --file-watch` flag
+    - [Documentation](https://docs.haskellstack.org/en/stable/build_command/#flags)
+
 ## Java
   - **HotSwapAgent**
     - [Library](https://github.com/HotswapProjects/HotswapAgent)
     - [Blog](https://blog.payara.fish/using-hotswapagent-to-speed-up-development)
+
 ## JavaScript
   - NodeJS
     - **nodemon**
@@ -25,6 +45,7 @@ A curated collection of `live-reloading` tools and libraries associated with dif
     - **Vue Loader**
       - [Library](https://github.com/vuejs/vue-loader)
       - [Blog](https://vue-loader.vuejs.org/guide/hot-reload.html)
+
 ## Python
   - Gunicorn
     - [Docs](http://docs.gunicorn.org/en/stable/settings.html#debugging)
@@ -34,29 +55,12 @@ A curated collection of `live-reloading` tools and libraries associated with dif
     - **django-webpack-loader**
       - [Library](https://github.com/owais/django-webpack-loader)
       - [Blog](https://owais.lone.pw/blog/webpack-plus-reactjs-and-django/)
-## C
-  - **cr.h**
-    - [Library](https://github.com/fungos/cr)
-    - [Blog](https://fungos.github.io/blog/2017/11/20/cr.h-a-simple-c-hot-reload-header-only-library/)
-## C++
-  - **RuntimeCompiledCPlusPlus**
-    - [Library](https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus)
-    - [Blog](https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus/wiki)
-## Go
-  - **Gin**
-    - [Library](https://github.com/codegangsta/gin)
-    - [Readme](https://github.com/codegangsta/gin/blob/master/README.md)
-## .NET
-  - **dotnet watch**
-    - [Library](https://github.com/aspnet/DotNetTools/blob/dev/src/dotnet-watch/README.md)
-    - [Blog](https://docs.microsoft.com/en-us/aspnet/core/tutorials/dotnet-watch?view=aspnetcore-2.1)
-## Haskell
-  - `stack build --file-watch` flag
-    - [Documentation](https://docs.haskellstack.org/en/stable/build_command/#flags)
+
 ## PureScript
   - **Parcel**
     - [Library](https://github.com/parcel-bundler/parcel)
     - [Blog](https://qiita.com/kimagure/items/a870d250f75a6822759b)
+
 ## Ruby
   - Sinatra
     - **rerun**
@@ -66,3 +70,8 @@ A curated collection of `live-reloading` tools and libraries associated with dif
     - **Webpack**
       - [Library](https://github.com/webpack/webpack)
       - [Blog](https://medium.com/@hpux/rails-5-1-loves-javascript-a1d84d5318b)
+
+## .NET
+  - **dotnet watch**
+    - [Library](https://github.com/aspnet/DotNetTools/blob/dev/src/dotnet-watch/README.md)
+    - [Blog](https://docs.microsoft.com/en-us/aspnet/core/tutorials/dotnet-watch?view=aspnetcore-2.1)
