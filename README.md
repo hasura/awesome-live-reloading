@@ -38,6 +38,10 @@ A curated collection of `live-reloading` tools and libraries associated with dif
     - [**Vue Loader**](https://github.com/vuejs/vue-loader)
       - [Blog](https://vue-loader.vuejs.org/guide/hot-reload.html)
 
+## Julia
+  - [**Revise.jl**](https://github.com/timholy/Revise.jl)
+    - [Readme](https://github.com/timholy/Revise.jl/blob/master/README.md)
+
 ## Python
   - Gunicorn
     - [Docs](http://docs.gunicorn.org/en/stable/settings.html#debugging)
