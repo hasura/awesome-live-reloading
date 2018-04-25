@@ -1,8 +1,8 @@
-# awesome-hot-reloading [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome-live-reloading [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated collection of `hot-reloading` tools and libraries associated with different languages and frameworks.
+A curated collection of `live-reloading` tools and libraries associated with different languages and frameworks.
 
-*Hot-reloading refers to a feature that builds your code once, watches the files and reloads automatically in case of changes.*
+"Live reloading" refers to tools that run your compile/build step as you write code. This makes it faster for you test your work as you write code. This is especially helpful for web development.
 
 ## Java
   - **HotSwapAgent**
