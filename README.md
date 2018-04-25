@@ -1,6 +1,8 @@
 # awesome-hot-reloading [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated collection of `hot-reloading` libraries associated with different languages and frameworks.
+A curated collection of `hot-reloading` tools and libraries associated with different languages and frameworks.
+
+*Hot-reloading refers to a feature that builds your code once, watches the files and reloads automatically in case of changes.*
 
 - Java
   - **HotSwapAgent**
