@@ -46,6 +46,8 @@ A curated collection of `live-reloading` tools and libraries associated with dif
   - EmberJS
     - [**Ember-CLI**](https://ember-cli.com/)
       - [Docs](https://github.com/ember-cli/ember-cli-inject-live-reload)
+  - QuokkaJS
+    - [**Quokka.js**](https://quokkajs.com/docs/configuration.html)
   - VanillaJS
     - [**Hot-Server**](https://github.com/1wheel/hot-server)
       - [Blog](https://roadtolarissa.com/hot-reload/)
