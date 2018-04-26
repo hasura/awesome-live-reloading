@@ -28,7 +28,7 @@ A curated collection of `live-reloading` tools and libraries associated with dif
   - `stack build --file-watch` flag
     - [Documentation](https://docs.haskellstack.org/en/stable/build_command/#flags)
 
-## Java
+## Java and other JVM languages (Kotlin, Scala, Groovy etc.)
   - [**DCEVM**](https://github.com/dcevm/dcevm)
     - [Beta for Java9](https://github.com/HotswapProjects/openjdk-jdk9)
   - [**HotSwapAgent**](https://github.com/HotswapProjects/HotswapAgent)
