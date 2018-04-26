@@ -43,6 +43,9 @@ A curated collection of `live-reloading` tools and libraries associated with dif
   - VueJS
     - [**Vue Loader**](https://github.com/vuejs/vue-loader)
       - [Blog](https://vue-loader.vuejs.org/guide/hot-reload.html)
+  - VanillaJS
+    - [**Hot-Server**](https://github.com/1wheel/hot-server)
+      - [Blog](https://roadtolarissa.com/hot-reload/)
 
 ## Julia
   - [**Revise.jl**](https://github.com/timholy/Revise.jl)
