@@ -53,6 +53,12 @@ A curated collection of `live-reloading` tools and libraries associated with dif
     - [Docs](http://flask.pocoo.org/docs/0.12/quickstart/#debug-mode)
   - Django
     - [**django-webpack-loader**](https://github.com/owais/django-webpack-loader)
+      - [Blog](https://owais.lone.pw/blog/webpack-plus-reactjs-and-django/)
+  - Hupper
+    - Just use `hupper -m script` instead of `python -m script`.
+    - [Docs](https://docs.pylonsproject.org/projects/hupper/en/latest/)
+  - Pyramid
+    - [Docs](https://docs.pylonsproject.org/projects/pyramid/en/1.9-branch/pscripts/pserve.html)
       - [Blog](https://owais.lone.pw/blog/webpack-plus-reactjs-and-django/)
   - [Watchdog](https://github.com/gorakhargosh/watchdog)
 
