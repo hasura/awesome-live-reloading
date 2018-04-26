@@ -12,6 +12,10 @@ A curated collection of `live-reloading` tools and libraries associated with dif
   - [**RuntimeCompiledCPlusPlus**](https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus)
     - [Blog](https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus/wiki)
 
+## Clojurescript
+  - [**Figwheel**](https://github.com/bhauman/lein-figwheel)
+    - 
+
 ## Go
   - [**Gin**](https://github.com/codegangsta/gin)
     - [Readme](https://github.com/codegangsta/gin/blob/master/README.md)
@@ -38,6 +42,10 @@ A curated collection of `live-reloading` tools and libraries associated with dif
     - [**Vue Loader**](https://github.com/vuejs/vue-loader)
       - [Blog](https://vue-loader.vuejs.org/guide/hot-reload.html)
 
+## Julia
+  - [**Revise.jl**](https://github.com/timholy/Revise.jl)
+    - [Readme](https://github.com/timholy/Revise.jl/blob/master/README.md)
+
 ## Python
   - Gunicorn
     - [Docs](http://docs.gunicorn.org/en/stable/settings.html#debugging)
@@ -51,6 +59,8 @@ A curated collection of `live-reloading` tools and libraries associated with dif
     - [Docs](https://docs.pylonsproject.org/projects/hupper/en/latest/)
   - Pyramid
     - [Docs](https://docs.pylonsproject.org/projects/pyramid/en/1.9-branch/pscripts/pserve.html)
+      - [Blog](https://owais.lone.pw/blog/webpack-plus-reactjs-and-django/)
+  - [Watchdog](https://github.com/gorakhargosh/watchdog)
 
 ## PureScript
   - [**Parcel**](https://github.com/parcel-bundler/parcel)
