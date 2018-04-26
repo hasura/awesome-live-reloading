@@ -56,6 +56,10 @@ A curated collection of `live-reloading` tools and libraries associated with dif
   - [**Revise.jl**](https://github.com/timholy/Revise.jl)
     - [Readme](https://github.com/timholy/Revise.jl/blob/master/README.md)
 
+## Lua
+  - [**info-beamer (pi)**](https://info-beamer.com/pi)
+     - [Documentation](https://info-beamer.com/doc/info-beamer)
+
 ## Python
   - Gunicorn
     - [Docs](http://docs.gunicorn.org/en/stable/settings.html#debugging)
