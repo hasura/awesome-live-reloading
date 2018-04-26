@@ -29,7 +29,10 @@ A curated collection of `live-reloading` tools and libraries associated with dif
     - [Documentation](https://docs.haskellstack.org/en/stable/build_command/#flags)
 
 ## Java
+  - [**DCEVM**](https://github.com/dcevm/dcevm)
+    - [Beta for Java9](https://github.com/HotswapProjects/openjdk-jdk9)
   - [**HotSwapAgent**](https://github.com/HotswapProjects/HotswapAgent)
+    - [In Docker](https://github.com/HotswapProjects/hotswap-docklands)
     - [Blog](https://blog.payara.fish/using-hotswapagent-to-speed-up-development)
 
 ## JavaScript
