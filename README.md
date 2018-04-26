@@ -19,6 +19,8 @@ A curated collection of `live-reloading` tools and libraries associated with dif
 ## Go
   - [**Gin**](https://github.com/codegangsta/gin)
     - [Readme](https://github.com/codegangsta/gin/blob/master/README.md)
+  - [**Realize**](https://github.com/oxequa/realize)
+    - [Readme](https://github.com/oxequa/realize/blob/master/README.md)
 
 ## Haskell
   - `stack build --file-watch` flag
