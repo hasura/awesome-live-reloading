@@ -14,7 +14,10 @@ A curated collection of `live-reloading` tools and libraries associated with dif
 
 ## Clojurescript
   - [**Figwheel**](https://github.com/bhauman/lein-figwheel)
-    - 
+
+## Dart
+  - Flutter
+    - [**Hot Reload**](https://flutter.io/hot-reload/)
 
 ## Go
   - [**Gin**](https://github.com/codegangsta/gin)
