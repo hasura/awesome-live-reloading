@@ -85,6 +85,12 @@ A curated collection of `live-reloading` tools and libraries associated with dif
   - [**Parcel**](https://github.com/parcel-bundler/parcel)
     - [Blog](https://qiita.com/kimagure/items/a870d250f75a6822759b)
 
+## Qt QML
+  - [**QML Live Reloading**](https://doc.qt.io/QtQmlLive/index.html)
+  - [**Terrarium**](https://github.com/penk/terrarium-app)
+  - [**V-Play**](https://v-play.net/)
+    - [Blog](https://v-play.net/updates/release-2-14-0-live-code-reloading-for-desktop-ios-android)
+
 ## Ruby
   - Sinatra
     - [**rerun**](https://github.com/alexch/rerun)
