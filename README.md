@@ -56,6 +56,8 @@ A curated collection of `live-reloading` tools and libraries associated with dif
   - VanillaJS
     - [**Hot-Server**](https://github.com/1wheel/hot-server)
       - [Blog](https://roadtolarissa.com/hot-reload/)
+    - [**Live-Server**](https://github.com/tapio/live-server)
+      - [Web](http://tapiov.net/live-server/)
 
 ## Julia
   - [**Revise.jl**](https://github.com/timholy/Revise.jl)
