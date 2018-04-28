@@ -25,8 +25,11 @@ A curated collection of `live-reloading` tools and libraries associated with dif
   - `stack build --file-watch` flag
     - [Documentation](https://docs.haskellstack.org/en/stable/build_command/#flags)
 
-## Java
+## Java and other JVM languages (Kotlin, Scala, Groovy etc.)
+  - [**DCEVM**](https://github.com/dcevm/dcevm)
+    - [Beta for Java9](https://github.com/HotswapProjects/openjdk-jdk9)
   - [**HotSwapAgent**](https://github.com/HotswapProjects/HotswapAgent)
+    - [In Docker](https://github.com/HotswapProjects/hotswap-docklands)
     - [Blog](https://blog.payara.fish/using-hotswapagent-to-speed-up-development)
 
 ## JavaScript
@@ -78,6 +81,12 @@ A curated collection of `live-reloading` tools and libraries associated with dif
 ## PureScript
   - [**Parcel**](https://github.com/parcel-bundler/parcel)
     - [Blog](https://qiita.com/kimagure/items/a870d250f75a6822759b)
+
+## Qt QML
+  - [**QML Live Reloading**](https://doc.qt.io/QtQmlLive/index.html)
+  - [**Terrarium**](https://github.com/penk/terrarium-app)
+  - [**V-Play**](https://v-play.net/)
+    - [Blog](https://v-play.net/updates/release-2-14-0-live-code-reloading-for-desktop-ios-android)
 
 ## Ruby
   - Sinatra
