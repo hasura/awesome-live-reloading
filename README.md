@@ -11,6 +11,8 @@ A curated collection of `live-reloading` tools and libraries associated with dif
 ## C++
   - [**RuntimeCompiledCPlusPlus**](https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus)
     - [Blog](https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus/wiki)
+    - [openFrameworks binding](https://github.com/ofnode/ofLiveApp)
+  - [**JUCE Projucer**](https://juce.com/discover/projucer)
 
 ## Clojurescript
   - [**Figwheel**](https://github.com/bhauman/lein-figwheel)
