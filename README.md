@@ -14,8 +14,10 @@ A curated collection of `live-reloading` tools and libraries associated with dif
     - [openFrameworks binding](https://github.com/ofnode/ofLiveApp)
   - [**JUCE Projucer**](https://juce.com/discover/projucer)
 
-## Clojurescript
+## ClojureScript
+  - [**shadow-cljs**](http://shadow-cljs.org/)
   - [**Figwheel**](https://github.com/bhauman/lein-figwheel)
+  - [**boot-reload**](https://github.com/adzerk-oss/boot-reload)
 
 ## Go
   - [**Gin**](https://github.com/codegangsta/gin)
