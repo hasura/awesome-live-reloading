@@ -13,6 +13,7 @@ A curated collection of `live-reloading` tools and libraries associated with dif
     - [Blog](https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus/wiki)
     - [openFrameworks binding](https://github.com/ofnode/ofLiveApp)
   - [**JUCE Projucer**](https://juce.com/discover/projucer)
+  - [**RCRL - Read-Compile-Run-Loop**](https://github.com/onqtam/rcrl) - tiny and powerful interactive C++ compiler (REPL)
 
 ## ClojureScript
   - [**shadow-cljs**](http://shadow-cljs.org/)
