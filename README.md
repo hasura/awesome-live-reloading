@@ -109,3 +109,6 @@ A curated collection of `live-reloading` tools and libraries associated with dif
       - [**Hot Reload**](https://flutter.io/hot-reload/)
     - React Native
       - [Blog](https://facebook.github.io/react-native/blog/2016/03/24/introducing-hot-reloading.html)
+
+<sup>Made with ♡♡love♡♡ by [Hasura](https://hasura.io)</sup>
+<sup>The origin of this list was when we were creating documentation for live-reloading code you write on your computer, and syncing those files to your cloud dev/staging environment directly. There are a lot of new tools coming out that make this trend popular ([Hasura](https://hasura.io), [ksync](https://github.com/vapor-ware/ksync), [Skaffold](https://github.com/GoogleContainerTools/skaffold) ). We then realised that there was no central repo of "live-reloading" tools for different languages/frameworks and decided to curate this. </sup>
