@@ -11,9 +11,14 @@ A curated collection of `live-reloading` tools and libraries associated with dif
 ## C++
   - [**RuntimeCompiledCPlusPlus**](https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus)
     - [Blog](https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus/wiki)
+    - [openFrameworks binding](https://github.com/ofnode/ofLiveApp)
+  - [**JUCE Projucer**](https://juce.com/discover/projucer)
+  - [**RCRL - Read-Compile-Run-Loop**](https://github.com/onqtam/rcrl) - tiny and powerful interactive C++ compiler (REPL)
 
-## Clojurescript
+## ClojureScript
+  - [**shadow-cljs**](http://shadow-cljs.org/)
   - [**Figwheel**](https://github.com/bhauman/lein-figwheel)
+  - [**boot-reload**](https://github.com/adzerk-oss/boot-reload)
 
 ## Go
   - [**Gin**](https://github.com/codegangsta/gin)
@@ -53,6 +58,8 @@ A curated collection of `live-reloading` tools and libraries associated with dif
   - VanillaJS
     - [**Hot-Server**](https://github.com/1wheel/hot-server)
       - [Blog](https://roadtolarissa.com/hot-reload/)
+    - [**Live-Server**](https://github.com/tapio/live-server)
+      - [Web](http://tapiov.net/live-server/)
 
 ## Julia
   - [**Revise.jl**](https://github.com/timholy/Revise.jl)
