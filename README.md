@@ -83,7 +83,7 @@ A curated collection of `live-reloading` tools and libraries associated with dif
   - Pyramid
     - [Docs](https://docs.pylonsproject.org/projects/pyramid/en/1.9-branch/pscripts/pserve.html)
     - [Blog](https://owais.lone.pw/blog/webpack-plus-reactjs-and-django/)
-  - [Watchdog](https://github.com/gorakhargosh/watchdog)
+  - [Watchdog](https://github.com/gorakhargosh/watchdog)
 
 ## PureScript
   - [**Parcel**](https://github.com/parcel-bundler/parcel)
