@@ -2,7 +2,7 @@
 
 A curated collection of `live-reloading` tools and libraries associated with different languages and frameworks.
 
-"Live reloading" refers to tools that run your compile/build step as you write code. This makes it faster for you test your work as you write code. This is especially helpful for web development.
+"Live reloading" refers to tools that run your compile/build step as you write code. This makes it faster for you to test your work as you write code. This is especially helpful for web development.
 
 ## C
   - [**cr.h**](https://github.com/fungos/cr)
