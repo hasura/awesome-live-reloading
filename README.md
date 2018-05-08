@@ -32,8 +32,8 @@ A curated collection of `live-reloading` tools and libraries associated with dif
 
 ## Java and other JVM languages (Kotlin, Scala, Groovy etc.)
   - [**DCEVM**](https://github.com/dcevm/dcevm)
-    - [Beta for Java9](https://github.com/HotswapProjects/openjdk-jdk9)
   - [**HotSwapAgent**](https://github.com/HotswapProjects/HotswapAgent)
+    - [Beta for Java9](https://github.com/HotswapProjects/openjdk-jdk9)
     - [In Docker](https://github.com/HotswapProjects/hotswap-docklands)
     - [Blog](https://blog.payara.fish/using-hotswapagent-to-speed-up-development)
 
@@ -82,7 +82,7 @@ A curated collection of `live-reloading` tools and libraries associated with dif
     - [Docs](https://docs.pylonsproject.org/projects/hupper/en/latest/)
   - Pyramid
     - [Docs](https://docs.pylonsproject.org/projects/pyramid/en/1.9-branch/pscripts/pserve.html)
-      - [Blog](https://owais.lone.pw/blog/webpack-plus-reactjs-and-django/)
+    - [Blog](https://owais.lone.pw/blog/webpack-plus-reactjs-and-django/)
   - [Watchdog](https://github.com/gorakhargosh/watchdog)
 
 ## PureScript
