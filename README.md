@@ -130,4 +130,4 @@ Tools that allow you to live reload your local code changes directly to your dev
 <br>
 <sup><b>Made with ♡♡love♡♡ by <a href="https://hasura.io">Hasura</a></b></sup>
 <br>
-<sup>This list originated when we were creating documentation for our <a href="#live-cloud-reloading">live-cloud-reloading</a> feature and we couldn't find any repo or article that curated live-reloading tools for different languages/frameworks.  </sup>
+<sup>This list originated when we were creating documentation for our <a href="https://blog.hasura.io/introducing-live-reloading-on-the-cloud-for-faster-development-3e67f23ca8ee">live-cloud-reloading</a> feature and we couldn't find any repo or article that curated live-reloading tools for different languages/frameworks.  </sup>
