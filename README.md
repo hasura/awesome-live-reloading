@@ -21,6 +21,7 @@ A curated collection of `live-reloading` tools and libraries associated with dif
   - [**boot-reload**](https://github.com/adzerk-oss/boot-reload)
 
 ## Go
+  - [**Air**](https://github.com/cosmtrek/air)
   - [**Gin**](https://github.com/codegangsta/gin)
     - [Readme](https://github.com/codegangsta/gin/blob/master/README.md)
   - [**Realize**](https://github.com/oxequa/realize)
