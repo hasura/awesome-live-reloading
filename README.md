@@ -103,6 +103,10 @@ A curated collection of `live-reloading` tools and libraries associated with dif
     - [**Webpack**](https://github.com/webpack/webpack)
       - [Blog](https://medium.com/@hpux/rails-5-1-loves-javascript-a1d84d5318b)
 
+## Rust
+   - [live-reloading-rs](https://github.com/porglezomp-misc/live-reloading-rs)
+      - [Docs](https://docs.rs/live-reload/0.2.0/live_reload/)
+
 ## .NET
   - [**dotnet watch**](https://github.com/aspnet/DotNetTools/blob/dev/src/dotnet-watch/README.md)
     - [Blog](https://docs.microsoft.com/en-us/aspnet/core/tutorials/dotnet-watch?view=aspnetcore-2.1)
