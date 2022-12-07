@@ -20,6 +20,9 @@ A curated collection of `live-reloading` tools and libraries associated with dif
   - [**Figwheel**](https://github.com/bhauman/lein-figwheel)
   - [**boot-reload**](https://github.com/adzerk-oss/boot-reload)
 
+## Dart (Flutter)
+  - [**hot-reload**](https://docs.flutter.dev/development/tools/hot-reload)
+
 ## Go
   - [**Gin**](https://github.com/codegangsta/gin)
     - [Readme](https://github.com/codegangsta/gin/blob/master/README.md)
