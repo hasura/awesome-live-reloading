@@ -104,7 +104,7 @@ A curated collection of `live-reloading` tools and libraries associated with dif
       - [Blog](https://medium.com/@hpux/rails-5-1-loves-javascript-a1d84d5318b)
 
 ## .NET
-  - [**dotnet watch**](https://github.com/aspnet/DotNetTools/blob/dev/src/dotnet-watch/README.md)
+  - [**dotnet watch**](https://github.com/aspnet/DotNetTools/blob/master/src/dotnet-watch/README.md)
     - [Blog](https://docs.microsoft.com/en-us/aspnet/core/tutorials/dotnet-watch?view=aspnetcore-2.1)
 
 ## Mobile
